@@ -1,0 +1,69 @@
+
+
+
+/* 
+These files are part of the free font collection offered by Carrois Type Design GbR. 
+They are free software; you can redistribute them and/or modify them under the terms of the GNU General Public License as published by the Free Software Foundation; 
+either version 3 of the License, or any later version.
+*/
+
+@font-face {
+    font-family: 'colaborate-boldregular';
+    src: url('ColabBol-webfont.eot');
+    src: url('ColabBol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabBol-webfont.woff') format('woff'),
+         url('ColabBol-webfont.ttf') format('truetype'),
+         url('ColabBol-webfont.svg#colaborate-boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'colaboratelightregular';
+    src: url('ColabLig-webfont.eot');
+    src: url('ColabLig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabLig-webfont.woff') format('woff'),
+         url('ColabLig-webfont.ttf') format('truetype'),
+         url('ColabLig-webfont.svg#colaboratelightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'colaborate-mediumregular';
+    src: url('ColabMed-webfont.eot');
+    src: url('ColabMed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabMed-webfont.woff') format('woff'),
+         url('ColabMed-webfont.ttf') format('truetype'),
+         url('ColabMed-webfont.svg#colaborate-mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'colaborate-regularregular';
+    src: url('ColabReg-webfont.eot');
+    src: url('ColabReg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabReg-webfont.woff') format('woff'),
+         url('ColabReg-webfont.ttf') format('truetype'),
+         url('ColabReg-webfont.svg#colaborate-regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'colaborate-thinregular';
+    src: url('ColabThi-webfont.eot');
+    src: url('ColabThi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabThi-webfont.woff') format('woff'),
+         url('ColabThi-webfont.ttf') format('truetype'),
+         url('ColabThi-webfont.svg#colaborate-thinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

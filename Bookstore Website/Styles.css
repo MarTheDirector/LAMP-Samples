@@ -1,0 +1,496 @@
+#container {
+  width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+  }
+/* For logout,login message on index, welcome page--------*/
+.logoutmsg{
+text-align:center;
+background-color:#F0F0F0;
+position:absolute;
+width:1095px;
+padding: 5px 5px 5px 5px;
+margin-bottom:10px;
+}
+/* end logout message on index page--------------*/
+
+/* For search message on searchlist page--------*/
+.searchmsg{
+text-align:center;
+background-color:#F0F0F0;
+position:absolute;
+width:1099px;
+padding: 5px 5px 5px 5px;
+margin-bottom:30px;
+}
+/* end search message on searchlist page--------*/
+
+.center{text-align:center;}
+
+/* For Register and login pages, search page too- */
+#table {
+    margin-left:auto; 
+    margin-right:auto;
+	width:500px;
+	position:absolute;
+	left: 250px;
+	top: 55px;
+  }
+  #table2 {
+    margin-left:auto; 
+    margin-right:auto;
+	width:600px;
+	position:absolute;
+	left: 230px;
+	top: 55px;
+  }
+    #table3 {
+    margin-left:auto; 
+    margin-right:auto;
+	width:600px;
+	position:absolute;
+	left: 390px;
+	top: 55px;
+  }
+/* end Register and login pages, search--------- */
+
+/* for navbar fonts-----------------------------*/
+.submenu a:visited{color:#000;}
+.submenu{font-size:25px; color:#000; text-decoration:none;}
+.main a:link{color:#FFF;}
+.main {font-size:30px;}
+.main2 {font-size:30px;}
+#navigation  a:hover {color:#EE6D05;}
+#navigation a {font-size:30px;}
+/* end navbar fonts----------------------------*/
+
+/* dark grey bar at top of the page-----------*/
+#navigation {
+background-image:url('images/navbg.png');
+background-repeat:repeat;
+font-family: 'colaborate-thinregular';
+z-index:1;
+body: #FFF;
+width:100%;
+min-width:900px;
+height:75px;
+position:fixed;
+left:0px;
+top:0px;
+padding: 5px 5px 5px 5px;
+}
+/* the real index page (not welcome page)-------*/
+
+#titleindex
+{
+	font-family: 'colaborate-boldregular'; font-size:46px;
+}
+#subtitleindex
+{
+ font-family: 'colaborate-thinregular'; font-size:37px;
+	position:relative;
+
+}
+#titlespace
+{
+	width:500px;
+	height:500px;
+	top:55px;
+	left:500px;
+	position:absolute;
+}
+#indeximage
+{
+	top:60px;
+	left:60px;
+	position:absolute;
+}
+
+
+#rightc
+{
+	width:955px;
+	position:absolute;
+	left:45px;
+	top:390px;
+	height:300px;
+	margin-left:30px;
+	margin-right:10px;
+	padding:10px 10px 10px 10px;
+	font-family: 'colaboratelightregular';
+		font-size:17px;
+		line-height:20px;
+		
+	
+}
+#indexbest
+{
+	background-color:#F0F0F0;
+	width:950px;
+	height:325px;
+	position:relative;
+	left:65px;
+	
+	
+}
+#intropara
+{
+	position:absolute;
+	top:390px;
+	left:80px;
+}
+#best
+{
+	font-size:24px;
+	left:63px;
+	position:relative;
+}
+#bigletter
+{
+	font-size:38px;
+}
+/*end index page------------------------ */
+
+/*textbox and button styling------------ */
+
+input[type=text], input[type=password] {   
+    padding: 9px;  
+	
+    border: solid 1px #E5E5E5;  
+    outline: 0;  
+	font-family: 'colaborate-mediumregular';
+    width: 200px;  
+    background: #FFFFFF;  
+    }
+input[type=text]:hover, input[type=text]:focus, input[type=password]:hover, input[type=password]:focus {   
+    border-color: #C9C9C9;   
+    }  
+input[type=submit]
+{
+	 padding: 9px;  
+    border: solid 1px #E5E5E5;  
+    outline: 0;  
+	font-family: 'colaborate-mediumregular';
+      
+	background:#AAA;
+	color:#EEEEEE;
+}
+input[type=reset]
+{
+	 padding: 9px;  
+    border: solid 1px #E5E5E5;  
+    outline: 0;  
+	font-family: 'colaborate-mediumregular';
+      
+	background:#AAA;
+	color:#EEEEEE;
+}
+input[type=submit]:hover, input[type=reset]:hover
+{
+	cursor:pointer; background:#888;
+}
+input[name=searchstr]
+{
+	width: 240px;
+}
+#qty
+{
+	width:10px;
+}
+button
+{
+	 padding: 9px;  
+    border: solid 1px #E5E5E5;  
+    outline: 0;  
+	font-family: 'colaborate-mediumregular';
+      
+	background:#AAA;
+	color:#EEEEEE;
+}
+button:hover{cursor:pointer; background:#888;}
+#onpage
+{
+	 padding: 9px;  
+    border: solid 1px #E5E5E5;  
+    outline: 0;  
+	font-family: 'colaborate-mediumregular';
+      
+	background:#888;
+	color:#EEEEEE;
+}
+
+/* For Booklist page--------------------*/
+#bookpannel{
+	background-color:#F0F0F0;
+	margin-bottom: 20px;
+	height:270px;
+	width:540px;
+	padding: 5px 15px 5px 15px;
+	border-width:2px;
+}
+
+#pagepannel{
+	background-color:#F0F0F0;
+	margin-bottom: 20px;
+	height:270px;
+	width:540px;
+	padding: 5px 15px 5px 15px;
+	border-width:2px;
+	text-align:center;
+}
+
+/* end code for Booklist page------------*/
+
+.logo {margin-top:9px;}
+
+#content {
+font-family: 'colaborate-mediumregular';
+background-color:#FFF;
+/*border:thick;
+border-style:solid;
+border-color:#5e5e5e;*/
+background-repeat:repeat;
+z-index:0;
+position:absolute;
+left:295px;
+top:85px;
+width:1100px;
+height:1200px;
+padding:30px 20px 20px 20px;
+color:#000;
+
+box-shadow: 5px 5px 25px #5e5e5e;
+-moz-box-shadow: 5px 5px 25px #5e5e5e;
+-webkit-box-shadow: 5px 5px 25px #5e5e5e;
+}
+/* -----Booklist content style (2 columns)--------------- */
+#contentbo {
+font-family: 'colaborate-mediumregular';
+background-color:#FFF;
+/*border:thick;
+border-style:solid;
+border-color:#5e5e5e;*/
+background-repeat:repeat;
+z-index:0;
+position:absolute;
+left:295px;
+top:85px;
+width:1100px;
+height:1500px;
+padding:30px 20px 20px 15px;
+color:#000;
+overflow:hidden;
+
+-moz-column-count:2; /* Firefox */
+-webkit-column-count:2; /* Safari and Chrome */
+column-count:2;
+box-shadow: 5px 5px 25px #5e5e5e;
+-moz-box-shadow: 5px 5px 25px #5e5e5e;
+-webkit-box-shadow: 5px 5px 25px #5e5e5e;
+}
+/*------makes sure nav doesn't move occording to the browser size.
+		since it uses a position right in stead of a left. to make
+		it align with the other side of the content box, wheither the user
+		is signed in or not (since the size changes depending on the user name).
+--------------------------------------------------------------------------------*/
+#navcontainer
+{
+	position:fixed;
+	left:295px;
+	top:0px;
+	width:1135px;
+	height:75px;
+}
+
+#searchdiv
+{
+	width:1100px;
+	height:1510px;
+	position:absolute;
+	top:50px;
+	
+}
+/*----Search content style-----*/
+#contentsearch {
+font-family: 'colaborate-mediumregular';
+background-color:#FFF;
+/*border:thick;
+border-style:solid;
+border-color:#5e5e5e;*/
+background-repeat:repeat;
+z-index:0;
+position:absolute;
+left:295px;
+top:85px;
+width:1100px;
+height:1520px;
+padding:30px 20px 20px 15px;
+color:#000;
+overflow:hidden;
+
+-moz-column-count:2; /* Firefox */
+-webkit-column-count:2; /* Safari and Chrome */
+column-count:2;
+box-shadow: 5px 5px 25px #5e5e5e;
+-moz-box-shadow: 5px 5px 25px #5e5e5e;
+-webkit-box-shadow: 5px 5px 25px #5e5e5e;
+}
+/* is this being used? -check- */
+#pad {
+
+border-color:#FFF;
+	 margin-right:10px; margin-bottom: 10px:
+}
+body {background-color:#555; color:#333;}
+h1 {font-family: 'colaborate-boldregular'; color:#000; font-size:18px; }
+h2 {font-family: 'colaborate-boldregular'; color:#000; font-size:30px; line-height: 5px; display:inline-block; margin: 0px 0px 0px 0px;}
+h3 {font-family: 'colaborate-boldregular'; color:#000; font-size:18px; display:inline-block; margin: 0px 0px 0px 0px;}
+h4 {font-family: 'colaborate-boldregular'; color:#000; font-size:28px; line-height: 5px; display:inline-block; margin: 0px 0px 0px 0px;}
+h5 {font-family: 'colaborate-boldregular'; color:#000; color:#28A828; font-size:30px; margin-bottom: 0px; display:inline-block; margin: 0px 0px 0px 0px;}
+h6 {font-family: 'colaborate-boldregular'; color:#000; font-size:13px;display:inline-block; margin: 0px 0px 0px 0px;}
+/*---------Book Info for welcome page-------- */
+.Bookinfo {
+border-style:none;
+position:absolute;
+top:380px;
+left:305px;
+	}
+	.Bookinfo td {border-style:solid; background-color:#F0F0F0;}
+	.Bookinfo tr {border-style:none;}
+/*------bookinfo for select page-----------*/
+.Bookinfoselect {
+border-style:none;
+position:absolute;
+top:295px;
+left:305px;
+	}
+	.Bookinfoselect td {border-style:solid; background-color:#F0F0F0;}
+	.Bookinfoselect tr {border-style:none;}
+/*-----select message to go to booklist------*/
+.selectmsg{
+text-align:center;
+background-color:#F0F0F0;
+position:absolute;
+width:1095px;
+padding: 5px 5px 5px 5px;
+
+}
+/*------bookinfo for select page-----------*/
+.profileinfoselect {
+border-style:none;
+
+	}
+	.profileinfoselect td {border-style:solid; background-color:#F0F0F0;}
+	.profileinfoselect tr {border-style:none;}
+/*-------edit profile--------- */
+#editwrap {
+	width: 100%;
+	margin: 0 auto;
+}
+.item {
+	
+	margin: 0 0 30px 30px;
+	float: left;
+}
+.item.first {
+	
+	margin-left: 135px;
+}
+
+/*------------------------*/
+a:link { 
+	color:#0A4D9C;
+	text-decoration:none;
+	}
+a:visited { 
+	color:#0A4D9C;
+	}
+a:hover { 
+	color:#DE911D;
+	
+	}
+a:active { 
+	color:#DE911D;
+	}
+
+.required
+{
+	color:#F00;
+}
+
+/*----------------------Navbar Css--------------------- */
+/* --Navbar desgin orignally made by: Simone D'Amico--- */
+#nav {
+
+	position:absolute;
+	right:0px;
+	top:13px;
+	
+	height:60px;
+	z-index:1;
+	background-color:#1F1F1F;
+	  list-style-type:none;  
+	margin-top: 0px;
+	margin-left: 0px;
+    z-index: 10;
+    display: block;
+	padding-left:0px;
+	
+}
+#navigation ul{list-style:none;}
+    #nav li { float: left; }
+        #nav li:hover { position: relative }
+        #nav li:hover > a { 
+            background: #2B2B2B;
+            
+            
+    
+                             
+        }
+            #nav li a {
+                color: #fff;
+                font-weight: bold;
+                text-decoration: none;
+                padding: 12px;
+                display: block;
+            }
+                #nav li a:hover { background-color: #2B2B2B; }        
+                    
+    #nav li ul { 
+        background: #fff;
+        margin-top: -2px;
+        display: none;   
+    }
+        #nav li:hover ul {
+            display:block; 
+            position:absolute; 
+        }
+
+        #nav li ul {
+            background: rgba(255,255,255,1);
+            padding: 10px 5px;
+            
+            box-shadow: 5px 5px 25px #2B2B2B;
+            -moz-box-shadow: 5px 5px 25px #2B2B2B;
+            -webkit-box-shadow: 5px 5px 25px #2B2B2B;
+            
+            border-radius: 0px 15px 15px 15px;
+            -moz-border-radius: 0px 15px 15px 15px;
+            -webkit-border-radius: 0px 5px 5px 5px;
+        }
+            #nav li ul li a, #nav li ul li a:hover {
+                color: #000;
+                width: 150px;
+                font-size: 0.95em;
+                font-weight: normal;
+            }
+                #nav li ul li a:hover { 
+				 color: #FFF;
+                    box-shadow: none;
+                    -moz-box-shadow: none;
+                    -webkit-box-shadow: none;
+                            
+                    border-radius: 0;
+                    -moz-border-radius: 0;
+                    -webkit-border-radius: 0;
+                }
