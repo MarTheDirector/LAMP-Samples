@@ -1,0 +1,435 @@
+[21-Jan-2016 15:02:09 UTC] PHP Fatal error:  Call to private method Student::setWid() from context '' in /home/ubuntu/workspace/S16-CSCI242/encapsulationStudent/index.php on line 8
+[21-Jan-2016 15:02:09 UTC] PHP Stack trace:
+[21-Jan-2016 15:02:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/encapsulationStudent/index.php:0
+[02-Feb-2016 14:39:44 UTC] PHP Warning:  require(Shape.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/inheritance/index.php on line 3
+[02-Feb-2016 14:39:44 UTC] PHP Stack trace:
+[02-Feb-2016 14:39:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/inheritance/index.php:0
+[02-Feb-2016 14:39:44 UTC] PHP Fatal error:  require(): Failed opening required 'Shape.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/inheritance/index.php on line 3
+[02-Feb-2016 14:39:44 UTC] PHP Stack trace:
+[02-Feb-2016 14:39:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/inheritance/index.php:0
+[08-Feb-2016 01:12:04 UTC] PHP Fatal error:  Cannot redeclare class Profile in /home/ubuntu/workspace/S16-CSCI242/hw1/Profile.php on line 3
+[08-Feb-2016 01:12:04 UTC] PHP Stack trace:
+[08-Feb-2016 01:12:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 01:12:04 UTC] PHP   2. require() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:3
+[08-Feb-2016 01:12:39 UTC] PHP Fatal error:  Call to undefined function setUsername() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 7
+[08-Feb-2016 01:12:39 UTC] PHP Stack trace:
+[08-Feb-2016 01:12:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 01:21:28 UTC] PHP Fatal error:  Cannot redeclare class Profile in /home/ubuntu/workspace/S16-CSCI242/hw1/Profile.php on line 3
+[08-Feb-2016 01:21:28 UTC] PHP Stack trace:
+[08-Feb-2016 01:21:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 01:27:54 UTC] PHP Fatal error:  Call to undefined function setUsername() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 7
+[08-Feb-2016 01:27:54 UTC] PHP Stack trace:
+[08-Feb-2016 01:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 01:29:07 UTC] PHP Fatal error:  Call to undefined function setFirstName() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 8
+[08-Feb-2016 01:29:07 UTC] PHP Stack trace:
+[08-Feb-2016 01:29:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 01:29:45 UTC] PHP Fatal error:  Cannot redeclare class Profile in /home/ubuntu/workspace/S16-CSCI242/hw1/Profile.php on line 3
+[08-Feb-2016 01:29:45 UTC] PHP Stack trace:
+[08-Feb-2016 01:29:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 01:29:58 UTC] PHP Fatal error:  Call to undefined function setFirstName() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 8
+[08-Feb-2016 01:29:58 UTC] PHP Stack trace:
+[08-Feb-2016 01:29:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 02:35:31 UTC] PHP Fatal error:  Call to undefined method User::setFirstName() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 8
+[08-Feb-2016 02:35:31 UTC] PHP Stack trace:
+[08-Feb-2016 02:35:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 02:40:31 UTC] PHP Fatal error:  Call to undefined function setUsername() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 7
+[08-Feb-2016 02:40:31 UTC] PHP Stack trace:
+[08-Feb-2016 02:40:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 02:41:52 UTC] PHP Fatal error:  Call to undefined method Profile::setUsername() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 7
+[08-Feb-2016 02:41:52 UTC] PHP Stack trace:
+[08-Feb-2016 02:41:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[08-Feb-2016 19:54:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 19
+[13-Feb-2016 00:44:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/S16-CSCI242/hw2/HTTPPostData.php on line 6
+[13-Feb-2016 00:44:09 UTC] PHP Stack trace:
+[13-Feb-2016 00:44:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw2/hw2.php:0
+[13-Feb-2016 00:53:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/S16-CSCI242/hw2/HTTPPostData.php on line 6
+[13-Feb-2016 00:53:32 UTC] PHP Stack trace:
+[13-Feb-2016 00:53:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw2/hw2.php:0
+[13-Feb-2016 00:54:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/S16-CSCI242/hw2/HTTPPostData.php on line 6
+[13-Feb-2016 00:54:01 UTC] PHP Stack trace:
+[13-Feb-2016 00:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw2/hw2.php:0
+[17-Feb-2016 21:54:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/S16-CSCI242/hw2/HTTPGetData.php on line 14
+[17-Feb-2016 21:54:06 UTC] PHP Stack trace:
+[17-Feb-2016 21:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw2/hw2.php:0
+[17-Feb-2016 22:12:19 UTC] PHP Fatal error:  Call to a member function setUsername() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 15
+[17-Feb-2016 22:12:19 UTC] PHP Stack trace:
+[17-Feb-2016 22:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:12:49 UTC] PHP Fatal error:  Call to a member function setUsername() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 15
+[17-Feb-2016 22:12:49 UTC] PHP Stack trace:
+[17-Feb-2016 22:12:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:16:29 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 17
+[17-Feb-2016 22:16:29 UTC] PHP Stack trace:
+[17-Feb-2016 22:16:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:18:27 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 17
+[17-Feb-2016 22:18:27 UTC] PHP Stack trace:
+[17-Feb-2016 22:18:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:19:12 UTC] PHP Fatal error:  Call to a member function setFirstName() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 18
+[17-Feb-2016 22:19:12 UTC] PHP Stack trace:
+[17-Feb-2016 22:19:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:19:53 UTC] PHP Fatal error:  Call to undefined method User::setFirstName() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 18
+[17-Feb-2016 22:19:53 UTC] PHP Stack trace:
+[17-Feb-2016 22:19:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:20:28 UTC] PHP Fatal error:  Call to undefined function setFirstName() in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 18
+[17-Feb-2016 22:20:28 UTC] PHP Stack trace:
+[17-Feb-2016 22:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:26:37 UTC] PHP Parse error:  syntax error, unexpected 'BACK' (T_STRING) in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 18
+[17-Feb-2016 22:26:45 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 18
+[17-Feb-2016 22:26:45 UTC] PHP Stack trace:
+[17-Feb-2016 22:26:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:26:55 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 18
+[17-Feb-2016 22:26:55 UTC] PHP Stack trace:
+[17-Feb-2016 22:26:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:27:44 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 20
+[17-Feb-2016 22:27:44 UTC] PHP Stack trace:
+[17-Feb-2016 22:27:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:28:14 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 20
+[17-Feb-2016 22:28:14 UTC] PHP Stack trace:
+[17-Feb-2016 22:28:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:46:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 20
+[17-Feb-2016 22:46:42 UTC] PHP Stack trace:
+[17-Feb-2016 22:46:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:51:07 UTC] PHP Fatal error:  Call to a member function setProfile() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw1/User.php on line 13
+[17-Feb-2016 22:51:07 UTC] PHP Stack trace:
+[17-Feb-2016 22:51:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:51:07 UTC] PHP   2. User->__construct() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:11
+[17-Feb-2016 22:51:43 UTC] PHP Fatal error:  Call to a member function setProfile() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw1/User.php on line 13
+[17-Feb-2016 22:51:43 UTC] PHP Stack trace:
+[17-Feb-2016 22:51:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[17-Feb-2016 22:51:43 UTC] PHP   2. User->__construct() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:11
+[17-Feb-2016 22:52:11 UTC] PHP Fatal error:  Call to a member function setFirstName() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw1/index.php on line 17
+[17-Feb-2016 22:52:11 UTC] PHP Stack trace:
+[17-Feb-2016 22:52:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw1/index.php:0
+[23-Feb-2016 15:36:30 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/vendor/scheb/yahoo-finance-api/ApiClient.php on line 108
+[23-Feb-2016 15:36:30 UTC] PHP Stack trace:
+[23-Feb-2016 15:36:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php:0
+[23-Feb-2016 15:36:30 UTC] PHP   2. Scheb\YahooFinanceApi\ApiClient->getQuotesList($symbols = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php:14
+[23-Feb-2016 15:36:30 UTC] PHP   3. implode(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/vendor/scheb/yahoo-finance-api/ApiClient.php:108
+[23-Feb-2016 15:36:30 UTC] PHP Fatal error:  Uncaught exception 'Scheb\YahooFinanceApi\Exception\ApiException' with message 'Yahoo Finance API did not return a result.' in /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/vendor/scheb/yahoo-finance-api/ApiClient.php:134
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/vendor/scheb/yahoo-finance-api/ApiClient.php(109): Scheb\YahooFinanceApi\ApiClient->execQuery('select * from y...')
+#1 /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php(14): Scheb\YahooFinanceApi\ApiClient->getQuotesList(NULL)
+#2 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/vendor/scheb/yahoo-finance-api/ApiClient.php on line 134
+[23-Feb-2016 15:44:22 UTC] PHP Warning:  Illegal string offset 'LastTradePriceOnly' in /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php on line 17
+[23-Feb-2016 15:44:22 UTC] PHP Stack trace:
+[23-Feb-2016 15:44:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php:0
+[23-Feb-2016 15:44:33 UTC] PHP Warning:  Illegal string offset 'LastTradePriceOnly' in /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php on line 17
+[23-Feb-2016 15:44:33 UTC] PHP Stack trace:
+[23-Feb-2016 15:44:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php:0
+[23-Feb-2016 15:44:59 UTC] PHP Warning:  Illegal string offset 'LastTradePriceOnly' in /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php on line 17
+[23-Feb-2016 15:44:59 UTC] PHP Stack trace:
+[23-Feb-2016 15:44:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/yahoo-finance/index.php:0
+[27-Feb-2016 21:44:08 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[27-Feb-2016 21:44:08 UTC] PHP Stack trace:
+[27-Feb-2016 21:44:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 21:44:08 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[27-Feb-2016 21:44:08 UTC] PHP Stack trace:
+[27-Feb-2016 21:44:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:03:39 UTC] PHP Fatal error:  Class 'User' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 15
+[27-Feb-2016 22:03:39 UTC] PHP Stack trace:
+[27-Feb-2016 22:03:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:05:43 UTC] PHP Fatal error:  Class 'Smith\User' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 17
+[27-Feb-2016 22:05:43 UTC] PHP Stack trace:
+[27-Feb-2016 22:05:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:10:12 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 18
+[27-Feb-2016 22:10:12 UTC] PHP Stack trace:
+[27-Feb-2016 22:10:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:10:27 UTC] PHP Fatal error:  Class 'Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 18
+[27-Feb-2016 22:10:27 UTC] PHP Stack trace:
+[27-Feb-2016 22:10:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:10:46 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:10:46 UTC] PHP Stack trace:
+[27-Feb-2016 22:10:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:14:04 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:14:04 UTC] PHP Stack trace:
+[27-Feb-2016 22:14:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:15:23 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:15:23 UTC] PHP Stack trace:
+[27-Feb-2016 22:15:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:15:43 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:15:43 UTC] PHP Stack trace:
+[27-Feb-2016 22:15:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:19:16 UTC] PHP Warning:  The use statement with non-compound name 'Customer' has no effect in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 5
+[27-Feb-2016 22:19:16 UTC] PHP Warning:  The use statement with non-compound name 'BankAccount' has no effect in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 6
+[27-Feb-2016 22:19:16 UTC] PHP Fatal error:  Class 'Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:19:16 UTC] PHP Stack trace:
+[27-Feb-2016 22:19:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:19:50 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:19:50 UTC] PHP Stack trace:
+[27-Feb-2016 22:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:22:08 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:22:08 UTC] PHP Stack trace:
+[27-Feb-2016 22:22:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:23:25 UTC] PHP Fatal error:  Class 'Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:23:25 UTC] PHP Stack trace:
+[27-Feb-2016 22:23:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:23:42 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:23:42 UTC] PHP Stack trace:
+[27-Feb-2016 22:23:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:24:08 UTC] PHP Fatal error:  Class 'src\Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:24:08 UTC] PHP Stack trace:
+[27-Feb-2016 22:24:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[27-Feb-2016 22:24:43 UTC] PHP Fatal error:  Class 'Smith\Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 19
+[27-Feb-2016 22:24:43 UTC] PHP Stack trace:
+[27-Feb-2016 22:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 03:31:45 UTC] PHP Fatal error:  Call to a member function deposit() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 23
+[28-Feb-2016 03:31:45 UTC] PHP Stack trace:
+[28-Feb-2016 03:31:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 04:40:10 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 23
+[28-Feb-2016 04:40:10 UTC] PHP Stack trace:
+[28-Feb-2016 04:40:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 04:41:20 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 23
+[28-Feb-2016 04:41:20 UTC] PHP Stack trace:
+[28-Feb-2016 04:41:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 04:41:34 UTC] PHP Fatal error:  Cannot access protected property Smith\Customer::$accounts in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 23
+[28-Feb-2016 04:41:34 UTC] PHP Stack trace:
+[28-Feb-2016 04:41:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 04:44:51 UTC] PHP Fatal error:  Cannot access protected property Smith\Customer::$accounts in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 23
+[28-Feb-2016 04:44:51 UTC] PHP Stack trace:
+[28-Feb-2016 04:44:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 04:59:30 UTC] PHP Catchable fatal error:  Argument 1 passed to Smith\Customer::addAccount() must be an instance of Smith\BankAccount, string given, called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 17 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 15
+[28-Feb-2016 04:59:30 UTC] PHP Stack trace:
+[28-Feb-2016 04:59:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 04:59:30 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[28-Feb-2016 04:59:51 UTC] PHP Parse error:  syntax error, unexpected '"Spend"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 17
+[28-Feb-2016 05:00:16 UTC] PHP Parse error:  syntax error, unexpected '"Spend"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 17
+[28-Feb-2016 05:01:21 UTC] PHP Catchable fatal error:  Argument 1 passed to Smith\Customer::addAccount() must be an instance of Smith\BankAccount, string given, called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 17 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 15
+[28-Feb-2016 05:01:21 UTC] PHP Stack trace:
+[28-Feb-2016 05:01:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:01:21 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[28-Feb-2016 05:10:45 UTC] PHP Warning:  Illegal offset type in unset in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 22
+[28-Feb-2016 05:10:45 UTC] PHP Stack trace:
+[28-Feb-2016 05:10:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:10:45 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[28-Feb-2016 05:11:21 UTC] PHP Warning:  Illegal offset type in unset in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 22
+[28-Feb-2016 05:11:21 UTC] PHP Stack trace:
+[28-Feb-2016 05:11:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:11:21 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[28-Feb-2016 05:13:53 UTC] PHP Catchable fatal error:  Object of class Smith\BankAccount could not be converted to string in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 22
+[28-Feb-2016 05:13:53 UTC] PHP Stack trace:
+[28-Feb-2016 05:13:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:13:53 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[28-Feb-2016 05:19:16 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 17
+[28-Feb-2016 05:19:16 UTC] PHP Stack trace:
+[28-Feb-2016 05:19:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:19:16 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[28-Feb-2016 05:19:16 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 17
+[28-Feb-2016 05:19:16 UTC] PHP Stack trace:
+[28-Feb-2016 05:19:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:19:16 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:19
+[28-Feb-2016 05:19:16 UTC] PHP Catchable fatal error:  Argument 1 passed to Smith\Customer::removeAccount() must be an instance of Smith\BankAccount, null given, called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 25 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 20
+[28-Feb-2016 05:19:16 UTC] PHP Stack trace:
+[28-Feb-2016 05:19:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:19:16 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[28-Feb-2016 05:20:13 UTC] PHP Catchable fatal error:  Object of class Smith\BankAccount could not be converted to string in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 17
+[28-Feb-2016 05:20:13 UTC] PHP Stack trace:
+[28-Feb-2016 05:20:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[28-Feb-2016 05:20:13 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[29-Feb-2016 14:49:01 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 23
+[29-Feb-2016 14:49:01 UTC] PHP Stack trace:
+[29-Feb-2016 14:49:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:49:01 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[29-Feb-2016 14:49:01 UTC] PHP Warning:  key() expects parameter 1 to be array, null given in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 23
+[29-Feb-2016 14:49:01 UTC] PHP Stack trace:
+[29-Feb-2016 14:49:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:49:01 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[29-Feb-2016 14:49:01 UTC] PHP   3. key(*uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php:23
+[29-Feb-2016 14:50:45 UTC] PHP Warning:  array_search() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 23
+[29-Feb-2016 14:50:45 UTC] PHP Stack trace:
+[29-Feb-2016 14:50:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:50:45 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[29-Feb-2016 14:50:45 UTC] PHP   3. array_search(*uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php:23
+[29-Feb-2016 14:51:10 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 23
+[29-Feb-2016 14:51:10 UTC] PHP Stack trace:
+[29-Feb-2016 14:51:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:51:10 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:25
+[29-Feb-2016 14:51:10 UTC] PHP   3. array_search(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php:23
+[29-Feb-2016 14:55:53 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 17
+[29-Feb-2016 14:55:53 UTC] PHP Stack trace:
+[29-Feb-2016 14:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:55:53 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[29-Feb-2016 14:55:53 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 17
+[29-Feb-2016 14:55:53 UTC] PHP Stack trace:
+[29-Feb-2016 14:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:55:53 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:19
+[29-Feb-2016 14:55:53 UTC] PHP Catchable fatal error:  Argument 1 passed to Smith\Customer::removeAccount() must be an instance of Smith\BankAccount, null given, called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 27 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 20
+[29-Feb-2016 14:55:53 UTC] PHP Stack trace:
+[29-Feb-2016 14:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:55:53 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:27
+[29-Feb-2016 14:56:06 UTC] PHP Catchable fatal error:  Object of class Smith\BankAccount could not be converted to string in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 17
+[29-Feb-2016 14:56:06 UTC] PHP Stack trace:
+[29-Feb-2016 14:56:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 14:56:06 UTC] PHP   2. Smith\Customer->addAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[29-Feb-2016 15:02:20 UTC] PHP Catchable fatal error:  Argument 1 passed to Smith\Customer::removeAccount() must be an instance of Smith\BankAccount, string given, called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 27 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 20
+[29-Feb-2016 15:02:20 UTC] PHP Stack trace:
+[29-Feb-2016 15:02:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 15:02:20 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:27
+[29-Feb-2016 15:06:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 23
+[29-Feb-2016 15:06:24 UTC] PHP Stack trace:
+[29-Feb-2016 15:06:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 15:06:24 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:27
+[29-Feb-2016 15:07:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 23
+[29-Feb-2016 15:07:49 UTC] PHP Stack trace:
+[29-Feb-2016 15:07:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 15:07:49 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:27
+[29-Feb-2016 15:20:49 UTC] PHP Fatal error:  Cannot use object of type Smith\BankAccount as array in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 22
+[29-Feb-2016 15:20:49 UTC] PHP Stack trace:
+[29-Feb-2016 15:20:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 15:20:49 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:27
+[29-Feb-2016 15:39:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 24
+[29-Feb-2016 15:39:10 UTC] PHP Stack trace:
+[29-Feb-2016 15:39:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 15:39:10 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:27
+[29-Feb-2016 15:39:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 24
+[29-Feb-2016 15:39:40 UTC] PHP Stack trace:
+[29-Feb-2016 15:39:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[29-Feb-2016 15:39:40 UTC] PHP   2. Smith\Customer->removeAccount($account = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:27
+[01-Mar-2016 14:45:15 UTC] PHP Catchable fatal error:  Object of class Smith\BankAccount could not be converted to string in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 28
+[01-Mar-2016 14:45:15 UTC] PHP Stack trace:
+[01-Mar-2016 14:45:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[01-Mar-2016 15:14:56 UTC] PHP Catchable fatal error:  Object of class Smith\BankAccount could not be converted to string in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 28
+[01-Mar-2016 15:14:56 UTC] PHP Stack trace:
+[01-Mar-2016 15:14:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[02-Mar-2016 05:32:58 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' with message 'You have insufficient funds.' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(27): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[02-Mar-2016 05:34:39 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(27): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[02-Mar-2016 05:36:36 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(27): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[03-Mar-2016 19:13:24 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(30): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[03-Mar-2016 19:19:32 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(30): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[03-Mar-2016 19:21:07 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(30): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[03-Mar-2016 19:22:42 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(30): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[03-Mar-2016 19:23:48 UTC] PHP Fatal error:  Uncaught exception 'Smith\InsufficientFundsException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(31): Smith\BankAccount->withdrawal(100)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 22
+[03-Mar-2016 19:57:03 UTC] PHP Fatal error:  Uncaught exception 'Smith\DepositToLargeException' in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/hw3/index.php(30): Smith\BankAccount->deposit(100000)
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 21
+[03-Mar-2016 20:11:36 UTC] PHP Warning:  Missing argument 1 for Smith\BankAccount::deposit(), called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 34 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 13
+[03-Mar-2016 20:11:36 UTC] PHP Stack trace:
+[03-Mar-2016 20:11:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:11:36 UTC] PHP   2. Smith\BankAccount->deposit($amount = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:34
+[03-Mar-2016 20:11:53 UTC] PHP Warning:  Missing argument 1 for Smith\BankAccount::deposit(), called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 34 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 13
+[03-Mar-2016 20:11:53 UTC] PHP Stack trace:
+[03-Mar-2016 20:11:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:11:53 UTC] PHP   2. Smith\BankAccount->deposit($amount = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:34
+[03-Mar-2016 20:20:51 UTC] PHP Warning:  Missing argument 1 for Smith\BankAccount::deposit(), called in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 37 and defined in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/BankAccount.php on line 13
+[03-Mar-2016 20:20:51 UTC] PHP Stack trace:
+[03-Mar-2016 20:20:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:20:51 UTC] PHP   2. Smith\BankAccount->deposit($amount = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:37
+[03-Mar-2016 20:22:29 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:22:29 UTC] PHP Stack trace:
+[03-Mar-2016 20:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:22:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:22:29 UTC] PHP Stack trace:
+[03-Mar-2016 20:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:22:50 UTC] PHP Warning:  require_once(includes\header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:22:50 UTC] PHP Stack trace:
+[03-Mar-2016 20:22:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:22:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes\header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:22:50 UTC] PHP Stack trace:
+[03-Mar-2016 20:22:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:23:00 UTC] PHP Warning:  require_once(src\includes\header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:23:00 UTC] PHP Stack trace:
+[03-Mar-2016 20:23:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:23:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'src\includes\header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:23:00 UTC] PHP Stack trace:
+[03-Mar-2016 20:23:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:23:10 UTC] PHP Warning:  require_once(src/includes/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:23:10 UTC] PHP Stack trace:
+[03-Mar-2016 20:23:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:23:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'src/includes/header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 3
+[03-Mar-2016 20:23:10 UTC] PHP Stack trace:
+[03-Mar-2016 20:23:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:25:36 UTC] PHP Fatal error:  Class 'Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 4
+[03-Mar-2016 20:25:36 UTC] PHP Stack trace:
+[03-Mar-2016 20:25:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:26:47 UTC] PHP Fatal error:  Class 'Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 4
+[03-Mar-2016 20:26:47 UTC] PHP Stack trace:
+[03-Mar-2016 20:26:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[03-Mar-2016 20:27:51 UTC] PHP Fatal error:  Class 'Customer' not found in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 4
+[03-Mar-2016 20:27:51 UTC] PHP Stack trace:
+[03-Mar-2016 20:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[04-Mar-2016 00:54:17 UTC] PHP Fatal error:  Cannot use object of type Smith\Customer as array in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 11
+[04-Mar-2016 00:54:17 UTC] PHP Stack trace:
+[04-Mar-2016 00:54:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[04-Mar-2016 00:54:17 UTC] PHP   2. Smith\Customer->__construct() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[04-Mar-2016 00:56:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 12
+[04-Mar-2016 00:56:10 UTC] PHP Stack trace:
+[04-Mar-2016 00:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[04-Mar-2016 00:56:10 UTC] PHP   2. Smith\Customer->__construct() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:17
+[04-Mar-2016 00:56:10 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php:12
+[04-Mar-2016 00:56:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php on line 12
+[04-Mar-2016 00:56:10 UTC] PHP Stack trace:
+[04-Mar-2016 00:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[04-Mar-2016 00:56:10 UTC] PHP   2. Smith\Customer->__construct() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:19
+[04-Mar-2016 00:56:10 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/hw3/src/Smith/Customer.php:12
+[04-Mar-2016 00:57:33 UTC] PHP Fatal error:  Call to a member function getBalanceOfAllAccounts() on a non-object in /home/ubuntu/workspace/S16-CSCI242/hw3/index.php on line 80
+[04-Mar-2016 00:57:33 UTC] PHP Stack trace:
+[04-Mar-2016 00:57:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/hw3/index.php:0
+[22-Mar-2016 14:21:21 UTC] PHP Fatal error:  Class 'Smith\Models\BankAccount' not found in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php on line 9
+[22-Mar-2016 14:21:21 UTC] PHP Stack trace:
+[22-Mar-2016 14:21:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php:0
+[22-Mar-2016 14:25:26 UTC] PHP Fatal error:  Class 'Smith\Models\BankAccount' not found in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php on line 9
+[22-Mar-2016 14:25:26 UTC] PHP Stack trace:
+[22-Mar-2016 14:25:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php:0
+[22-Mar-2016 14:25:47 UTC] PHP Fatal error:  Class 'Smith\Models\BankAccount' not found in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php on line 9
+[22-Mar-2016 14:25:47 UTC] PHP Stack trace:
+[22-Mar-2016 14:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php:0
+[22-Mar-2016 14:27:30 UTC] PHP Fatal error:  Class 'Smith\BankAccount' not found in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php on line 9
+[22-Mar-2016 14:27:30 UTC] PHP Stack trace:
+[22-Mar-2016 14:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php:0
+[22-Mar-2016 14:27:43 UTC] PHP Fatal error:  Class 'Smith\Models\BankAccount' not found in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php on line 9
+[22-Mar-2016 14:27:43 UTC] PHP Stack trace:
+[22-Mar-2016 14:27:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php:0
+[22-Mar-2016 14:33:23 UTC] PHP Fatal error:  Class 'Smith\Models\BankAccount' not found in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php on line 9
+[22-Mar-2016 14:33:23 UTC] PHP Stack trace:
+[22-Mar-2016 14:33:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php:0
+[22-Mar-2016 14:34:39 UTC] PHP Fatal error:  Call to a member function addAccount() on a non-object in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php on line 13
+[22-Mar-2016 14:34:39 UTC] PHP Stack trace:
+[22-Mar-2016 14:34:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/index.php:0
+[22-Mar-2016 14:36:04 UTC] PHP Fatal error:  Uncaught exception 'Doctrine\ODM\MongoDB\Mapping\MappingException' with message 'No identifier/primary key specified for Document 'Smith\Models\Customer'. Every Document must have an identifier/primary key.' in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/MappingException.php:103
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/ClassMetadataFactory.php(196): Doctrine\ODM\MongoDB\Mapping\MappingException::identifierRequired('Smith\Models\Cu...')
+#1 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/ClassMetadataFactory.php(158): Doctrine\ODM\MongoDB\Mapping\ClassMetadataFactory->validateIdentifier(Object(Doctrine\ODM\MongoDB\Mapping\ClassMetadata))
+#2 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php(318): Doctrine\ODM\Mong in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/MappingException.php on line 103
+[22-Mar-2016 14:42:47 UTC] PHP Fatal error:  Uncaught exception 'Doctrine\Common\Persistence\Mapping\MappingException' with message 'Class 'Smith\Models\Account' does not exist' in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/MappingException.php:96
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/RuntimeReflectionService.php(43): Doctrine\Common\Persistence\Mapping\MappingException::nonExistingClass('Smith\Models\Ac...')
+#1 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php(267): Doctrine\Common\Persistence\Mapping\RuntimeReflectionService->getParentClasses('Smith\Models\Ac...')
+#2 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php(297): Doctrine\Common\Persistence\Mapping\AbstractClassMetadataFactory->getParentClasses('Smith\Mo in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/MappingException.php on line 96
+[22-Mar-2016 14:43:44 UTC] PHP Fatal error:  Uncaught exception 'Doctrine\Common\Persistence\Mapping\MappingException' with message 'Class 'Smith\Models\Account' does not exist' in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/MappingException.php:96
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/RuntimeReflectionService.php(43): Doctrine\Common\Persistence\Mapping\MappingException::nonExistingClass('Smith\Models\Ac...')
+#1 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php(267): Doctrine\Common\Persistence\Mapping\RuntimeReflectionService->getParentClasses('Smith\Models\Ac...')
+#2 /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php(297): Doctrine\Common\Persistence\Mapping\AbstractClassMetadataFactory->getParentClasses('Smith\Mo in /home/ubuntu/workspace/S16-CSCI242/in-class-hw3/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/MappingException.php on line 96

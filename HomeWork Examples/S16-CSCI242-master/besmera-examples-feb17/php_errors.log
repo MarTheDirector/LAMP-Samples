@@ -1,0 +1,494 @@
+[14-Jan-2016 15:10:52 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:10:52 UTC] PHP Stack trace:
+[14-Jan-2016 15:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:10:52 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:12:03 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:12:03 UTC] PHP Stack trace:
+[14-Jan-2016 15:12:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:12:03 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:13:41 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:13:41 UTC] PHP Stack trace:
+[14-Jan-2016 15:13:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:13:41 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:15:13 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:15:13 UTC] PHP Stack trace:
+[14-Jan-2016 15:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:15:13 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:15:17 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:15:17 UTC] PHP Stack trace:
+[14-Jan-2016 15:15:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:15:17 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:15:17 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:15:17 UTC] PHP Stack trace:
+[14-Jan-2016 15:15:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:15:17 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:15:17 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:15:17 UTC] PHP Stack trace:
+[14-Jan-2016 15:15:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:15:17 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:15:17 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:15:17 UTC] PHP Stack trace:
+[14-Jan-2016 15:15:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:15:17 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:17:45 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:17:45 UTC] PHP Stack trace:
+[14-Jan-2016 15:17:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:17:45 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:17:47 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:17:47 UTC] PHP Stack trace:
+[14-Jan-2016 15:17:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:17:47 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:18:17 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:18:17 UTC] PHP Stack trace:
+[14-Jan-2016 15:18:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:18:17 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:18:17 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:18:17 UTC] PHP Stack trace:
+[14-Jan-2016 15:18:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:18:17 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:18:25 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:18:25 UTC] PHP Stack trace:
+[14-Jan-2016 15:18:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:18:25 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:18:27 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:18:27 UTC] PHP Stack trace:
+[14-Jan-2016 15:18:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:18:27 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:19:06 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:19:06 UTC] PHP Stack trace:
+[14-Jan-2016 15:19:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:19:06 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:19:06 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:19:06 UTC] PHP Stack trace:
+[14-Jan-2016 15:19:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:19:06 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:20:51 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:20:51 UTC] PHP Stack trace:
+[14-Jan-2016 15:20:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:20:51 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[14-Jan-2016 15:20:51 UTC] PHP Warning:  Missing argument 1 for pop(), called in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 16 and defined in /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php on line 23
+[14-Jan-2016 15:20:51 UTC] PHP Stack trace:
+[14-Jan-2016 15:20:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:0
+[14-Jan-2016 15:20:51 UTC] PHP   2. pop($num = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/debugging/debug.php:16
+[19-Jan-2016 15:09:18 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/S16-CSCI242/encapsulation/Car.php on line 5
+[19-Jan-2016 15:09:18 UTC] PHP Stack trace:
+[19-Jan-2016 15:09:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/encapsulation/example.php:0
+[19-Jan-2016 15:11:45 UTC] PHP Fatal error:  Cannot access private property Car::$color in /home/ubuntu/workspace/S16-CSCI242/encapsulation/example.php on line 7
+[19-Jan-2016 15:11:45 UTC] PHP Stack trace:
+[19-Jan-2016 15:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/encapsulation/example.php:0
+[21-Jan-2016 15:00:12 UTC] PHP Fatal error:  Call to private method Student::setWid() from context '' in /home/ubuntu/workspace/S16-CSCI242/encapsulationExample/index.php on line 8
+[21-Jan-2016 15:00:12 UTC] PHP Stack trace:
+[21-Jan-2016 15:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/encapsulationExample/index.php:0
+[21-Jan-2016 15:05:52 UTC] PHP Fatal error:  Class 'IdCard' not found in /home/ubuntu/workspace/S16-CSCI242/encapsulationExample/Student.php on line 12
+[21-Jan-2016 15:05:52 UTC] PHP Stack trace:
+[21-Jan-2016 15:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/encapsulationExample/index.php:0
+[21-Jan-2016 15:05:52 UTC] PHP   2. Student->__construct() /home/ubuntu/workspace/S16-CSCI242/encapsulationExample/index.php:5
+[21-Jan-2016 15:06:32 UTC] PHP Fatal error:  Call to private method Student::setWid() from context '' in /home/ubuntu/workspace/S16-CSCI242/encapsulationExample/index.php on line 9
+[21-Jan-2016 15:06:32 UTC] PHP Stack trace:
+[21-Jan-2016 15:06:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/encapsulationExample/index.php:0
+[02-Feb-2016 14:41:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ubuntu/workspace/S16-CSCI242/inheritance/Rectangle.php on line 3
+[02-Feb-2016 14:41:37 UTC] PHP Stack trace:
+[02-Feb-2016 14:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/inheritance/index.php:0
+[02-Feb-2016 14:59:40 UTC] PHP Fatal error:  Cannot instantiate abstract class Shape in /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php on line 7
+[02-Feb-2016 14:59:40 UTC] PHP Stack trace:
+[02-Feb-2016 14:59:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php:0
+[02-Feb-2016 15:15:06 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php on line 16
+[02-Feb-2016 15:15:06 UTC] PHP Stack trace:
+[02-Feb-2016 15:15:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php:0
+[02-Feb-2016 15:15:06 UTC] PHP   2. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php:19
+[02-Feb-2016 15:15:06 UTC] PHP   3. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP   4. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP   5. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP   6. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP   7. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP   8. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP   9. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  10. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  11. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  12. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  13. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  14. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  15. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  16. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  17. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  18. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  19. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  20. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  21. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  22. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  23. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  24. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  25. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  26. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  27. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  28. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  29. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  30. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  31. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  32. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  33. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  34. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  35. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  36. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  37. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  38. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  39. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  40. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  41. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  42. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  43. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  44. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  45. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  46. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  47. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  48. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  49. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  50. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  51. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  52. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  53. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  54. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  55. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  56. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  57. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  58. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  59. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  60. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  61. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  62. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  63. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  64. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  65. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  66. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  67. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  68. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  69. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  70. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  71. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  72. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  73. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  74. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  75. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  76. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  77. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  78. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  79. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  80. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  81. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  82. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  83. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  84. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  85. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  86. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  87. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  88. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  89. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  90. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  91. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  92. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  93. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  94. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  95. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  96. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  97. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP  98. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP  99. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 100. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 101. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 102. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 103. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 104. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 105. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 106. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 107. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 108. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 109. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 110. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 111. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 112. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 113. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 114. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 115. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 116. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 117. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 118. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 119. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 120. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 121. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 122. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 123. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 124. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 125. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 126. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 127. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 128. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 129. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 130. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 131. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 132. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 133. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 134. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 135. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 136. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 137. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 138. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 139. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 140. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 141. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 142. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 143. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 144. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 145. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 146. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 147. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 148. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 149. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 150. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 151. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 152. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 153. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 154. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 155. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 156. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 157. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 158. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 159. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 160. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 161. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 162. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 163. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 164. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 165. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 166. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 167. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 168. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 169. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 170. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 171. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 172. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 173. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 174. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 175. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 176. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 177. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 178. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 179. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 180. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 181. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 182. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 183. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 184. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 185. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 186. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 187. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 188. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 189. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 190. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 191. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 192. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 193. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 194. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 195. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 196. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 197. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 198. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 199. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 200. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 201. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 202. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 203. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 204. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 205. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 206. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 207. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 208. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 209. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 210. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 211. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 212. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 213. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 214. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 215. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 216. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 217. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 218. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 219. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 220. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 221. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 222. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 223. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 224. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 225. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 226. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 227. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 228. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 229. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 230. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 231. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 232. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 233. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 234. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 235. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 236. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 237. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 238. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 239. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 240. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 241. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 242. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 243. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 244. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 245. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 246. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 247. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 248. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 249. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 250. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 251. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 252. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 253. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 254. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:15:06 UTC] PHP 255. Square->setWidth($width = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:13
+[02-Feb-2016 15:15:06 UTC] PHP 256. Square->setLength($length = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/polymorphism/Square.php:19
+[02-Feb-2016 15:26:18 UTC] PHP Fatal error:  Class 'Circle' not found in /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php on line 24
+[02-Feb-2016 15:26:18 UTC] PHP Stack trace:
+[02-Feb-2016 15:26:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php:0
+[02-Feb-2016 15:28:25 UTC] PHP Fatal error:  Class 'Circle' not found in /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php on line 24
+[02-Feb-2016 15:28:25 UTC] PHP Stack trace:
+[02-Feb-2016 15:28:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php:0
+[02-Feb-2016 15:28:27 UTC] PHP Fatal error:  Class 'Circle' not found in /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php on line 24
+[02-Feb-2016 15:28:27 UTC] PHP Stack trace:
+[02-Feb-2016 15:28:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/polymorphism/index.php:0
+[04-Feb-2016 15:13:53 UTC] PHP Warning:  fopen(http://www.freegeoip.net/csv/74.219.14.162): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/ubuntu/workspace/S16-CSCI242/destructors/GeoIP.php on line 11
+[04-Feb-2016 15:13:53 UTC] PHP Stack trace:
+[04-Feb-2016 15:13:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/destructors/index.php:0
+[04-Feb-2016 15:13:53 UTC] PHP   2. GeoIP->__construct($ip = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/destructors/index.php:7
+[04-Feb-2016 15:13:53 UTC] PHP   3. fopen(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/destructors/GeoIP.php:11
+[04-Feb-2016 15:17:53 UTC] PHP Warning:  fopen(http://www.freegeoip.net/csv/74.219.14.162): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/ubuntu/workspace/S16-CSCI242/destructors/GeoIP.php on line 11
+[04-Feb-2016 15:17:53 UTC] PHP Stack trace:
+[04-Feb-2016 15:17:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/destructors/index.php:0
+[04-Feb-2016 15:17:53 UTC] PHP   2. GeoIP->__construct($ip = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/destructors/index.php:7
+[04-Feb-2016 15:17:53 UTC] PHP   3. fopen(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/destructors/GeoIP.php:11
+[04-Feb-2016 15:17:53 UTC] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/S16-CSCI242/destructors/GeoIP.php on line 12
+[04-Feb-2016 15:17:53 UTC] PHP Stack trace:
+[04-Feb-2016 15:17:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/destructors/index.php:0
+[04-Feb-2016 15:17:53 UTC] PHP   2. GeoIP->__construct($ip = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/destructors/index.php:7
+[04-Feb-2016 15:17:53 UTC] PHP   3. fgetcsv(*uninitialized*) /home/ubuntu/workspace/S16-CSCI242/destructors/GeoIP.php:12
+[04-Feb-2016 15:37:13 UTC] PHP Fatal error:  Call to a member function getCount() on a non-object in /home/ubuntu/workspace/S16-CSCI242/statics/index.php on line 7
+[04-Feb-2016 15:37:13 UTC] PHP Stack trace:
+[04-Feb-2016 15:37:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/statics/index.php:0
+[04-Feb-2016 15:37:29 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/S16-CSCI242/statics/User.php on line 20
+[04-Feb-2016 15:37:29 UTC] PHP Stack trace:
+[04-Feb-2016 15:37:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/statics/index.php:0
+[04-Feb-2016 15:37:29 UTC] PHP   2. User::getCount() /home/ubuntu/workspace/S16-CSCI242/statics/index.php:7
+[04-Feb-2016 15:37:46 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/S16-CSCI242/statics/User.php on line 20
+[04-Feb-2016 15:37:46 UTC] PHP Stack trace:
+[04-Feb-2016 15:37:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/statics/index.php:0
+[04-Feb-2016 15:37:46 UTC] PHP   2. User::getCount() /home/ubuntu/workspace/S16-CSCI242/statics/index.php:7
+[04-Feb-2016 15:39:25 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/S16-CSCI242/statics/index.php on line 15
+[04-Feb-2016 15:39:25 UTC] PHP Stack trace:
+[04-Feb-2016 15:39:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/statics/index.php:0
+[09-Feb-2016 14:39:28 UTC] PHP Fatal error:  Cannot redeclare class Button in /home/ubuntu/workspace/S16-CSCI242/namespace/Zend/Button.php on line 3
+[09-Feb-2016 14:39:28 UTC] PHP Stack trace:
+[09-Feb-2016 14:39:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/namespace/index.php:0
+[09-Feb-2016 14:47:20 UTC] PHP Fatal error:  Cannot use Zend\Button as Button because the name is already in use in /home/ubuntu/workspace/S16-CSCI242/namespace/index.php on line 7
+[09-Feb-2016 14:48:51 UTC] PHP Fatal error:  Class 'Zend\Button' not found in /home/ubuntu/workspace/S16-CSCI242/namespace/index.php on line 19
+[09-Feb-2016 14:48:51 UTC] PHP Stack trace:
+[09-Feb-2016 14:48:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/namespace/index.php:0
+[09-Feb-2016 15:16:59 UTC] PHP Fatal error:  Call to undefined method Student::setName() in /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php on line 7
+[09-Feb-2016 15:16:59 UTC] PHP Stack trace:
+[09-Feb-2016 15:16:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:0
+[09-Feb-2016 15:18:26 UTC] PHP Fatal error:  Interface 'iNameable' not found in /home/ubuntu/workspace/S16-CSCI242/interfaces/Student.php on line 3
+[09-Feb-2016 15:18:26 UTC] PHP Stack trace:
+[09-Feb-2016 15:18:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:0
+[09-Feb-2016 15:18:26 UTC] PHP   2. require() /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:3
+[09-Feb-2016 15:18:49 UTC] PHP Fatal error:  Class Student contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (iNameable::setName, iNameable::getName) in /home/ubuntu/workspace/S16-CSCI242/interfaces/Student.php on line 19
+[09-Feb-2016 15:18:49 UTC] PHP Stack trace:
+[09-Feb-2016 15:18:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:0
+[09-Feb-2016 15:18:49 UTC] PHP   2. require() /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:3
+[09-Feb-2016 15:20:45 UTC] PHP Catchable fatal error:  Object of class Student could not be converted to string in /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php on line 9
+[09-Feb-2016 15:20:45 UTC] PHP Stack trace:
+[09-Feb-2016 15:20:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:0
+[09-Feb-2016 15:28:08 UTC] PHP Catchable fatal error:  Argument 1 passed to Teacher::addStudent() must be an instance of Student, instance of Teacher given, called in /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php on line 20 and defined in /home/ubuntu/workspace/S16-CSCI242/interfaces/Teacher.php on line 6
+[09-Feb-2016 15:28:08 UTC] PHP Stack trace:
+[09-Feb-2016 15:28:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:0
+[09-Feb-2016 15:28:08 UTC] PHP   2. Teacher->addStudent($student = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/interfaces/index.php:20
+[11-Feb-2016 15:06:00 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 10
+[11-Feb-2016 15:06:01 UTC] PHP Stack trace:
+[11-Feb-2016 15:06:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:06:34 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 10
+[11-Feb-2016 15:06:34 UTC] PHP Stack trace:
+[11-Feb-2016 15:06:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:06:44 UTC] PHP Fatal error:  Class 'Besmer\Exeception' not found in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 22
+[11-Feb-2016 15:06:44 UTC] PHP Stack trace:
+[11-Feb-2016 15:06:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:06:44 UTC] PHP   2. Besmer\MoviePlayer::playMovie($movie = *uninitialized*, $user = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:24
+[11-Feb-2016 15:07:18 UTC] PHP Fatal error:  Class 'Besmer\Exception' not found in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 22
+[11-Feb-2016 15:07:18 UTC] PHP Stack trace:
+[11-Feb-2016 15:07:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:07:18 UTC] PHP   2. Besmer\MoviePlayer::playMovie($movie = *uninitialized*, $user = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:24
+[11-Feb-2016 15:08:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php(24): Besmer\MoviePlayer::playMovie(Object(Besmer\Movie), Object(Besmer\User))
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 23
+[11-Feb-2016 15:09:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php:28
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php(24): Besmer\MoviePlayer::playMovie(Object(Besmer\Movie), Object(Besmer\User))
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 28
+[11-Feb-2016 15:12:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php:28
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php(24): Besmer\MoviePlayer::playMovie(Object(Besmer\Movie), Object(Besmer\User))
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 28
+[11-Feb-2016 15:14:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php:40
+Stack trace:
+#0 /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php(31): Besmer\MoviePlayer::playMovie(Object(Besmer\Movie), Object(Besmer\User))
+#1 {main}
+  thrown in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 40
+[11-Feb-2016 15:26:23 UTC] PHP Fatal error:  Class 'Besmer\Exception' not found in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/RatingException.php on line 6
+[11-Feb-2016 15:26:23 UTC] PHP Stack trace:
+[11-Feb-2016 15:26:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:26:23 UTC] PHP   2. require_once() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:5
+[11-Feb-2016 15:26:23 UTC] PHP   3. require_once() /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php:8
+[11-Feb-2016 15:26:59 UTC] PHP Warning:  require_once(NoSubscriptionException.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php on line 7
+[11-Feb-2016 15:26:59 UTC] PHP Stack trace:
+[11-Feb-2016 15:26:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:26:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'NoSubscriptionException.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php on line 7
+[11-Feb-2016 15:26:59 UTC] PHP Stack trace:
+[11-Feb-2016 15:26:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:27:25 UTC] PHP Fatal error:  Class 'Besmer\NoSubscriptionException' not found in /home/ubuntu/workspace/S16-CSCI242/exceptions/Besmer/MoviePlayer.php on line 30
+[11-Feb-2016 15:27:25 UTC] PHP Stack trace:
+[11-Feb-2016 15:27:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:0
+[11-Feb-2016 15:27:25 UTC] PHP   2. Besmer\MoviePlayer::playMovie($movie = *uninitialized*, $user = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/exceptions/index.php:39
+[11-Feb-2016 15:45:03 UTC] PHP Fatal error:  Nesting level too deep - recursive dependency? in /home/ubuntu/workspace/S16-CSCI242/objcompare/index.php on line 11
+[11-Feb-2016 15:45:03 UTC] PHP Stack trace:
+[11-Feb-2016 15:45:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/objcompare/index.php:0
+[16-Feb-2016 14:35:43 UTC] PHP Fatal error:  Nesting level too deep - recursive dependency? in /home/ubuntu/workspace/S16-CSCI242/objcompare/index.php on line 11
+[16-Feb-2016 14:35:43 UTC] PHP Stack trace:
+[16-Feb-2016 14:35:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/objcompare/index.php:0
+[16-Feb-2016 15:35:19 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/S16-CSCI242/composer3/index.php on line 3
+[16-Feb-2016 15:35:19 UTC] PHP Stack trace:
+[16-Feb-2016 15:35:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/composer3/index.php:0
+[16-Feb-2016 15:35:19 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/S16-CSCI242/composer3/index.php on line 3
+[16-Feb-2016 15:35:19 UTC] PHP Stack trace:
+[16-Feb-2016 15:35:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/composer3/index.php:0
+[16-Feb-2016 15:36:33 UTC] PHP Fatal error:  Class 'Besmer' not found in /home/ubuntu/workspace/S16-CSCI242/composer3/index.php on line 7
+[16-Feb-2016 15:36:33 UTC] PHP Stack trace:
+[16-Feb-2016 15:36:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/composer3/index.php:0
+[16-Feb-2016 15:36:56 UTC] PHP Fatal error:  Nesting level too deep - recursive dependency? in /home/ubuntu/workspace/S16-CSCI242/objcompare/index.php on line 11
+[16-Feb-2016 15:36:56 UTC] PHP Stack trace:
+[16-Feb-2016 15:36:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/objcompare/index.php:0
+[16-Feb-2016 15:39:27 UTC] PHP Fatal error:  Class Besmer\AbstractClasses\AbstractUser contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Besmer\AbstractClasses\AbstractUser::sayHello) in /home/ubuntu/workspace/S16-CSCI242/composer3/src/Besmer/AbstractClasses/AbstractUser.php on line 13
+[16-Feb-2016 15:39:27 UTC] PHP Stack trace:
+[16-Feb-2016 15:39:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/composer3/index.php:0
+[16-Feb-2016 15:39:27 UTC] PHP   2. spl_autoload_call(*uninitialized*) /home/ubuntu/workspace/S16-CSCI242/composer3/index.php:7
+[16-Feb-2016 15:39:27 UTC] PHP   3. Composer\Autoload\ClassLoader->loadClass($class = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/composer3/index.php:7
+[16-Feb-2016 15:39:27 UTC] PHP   4. Composer\Autoload\includeFile($file = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/composer3/vendor/composer/ClassLoader.php:301
+[16-Feb-2016 15:39:27 UTC] PHP   5. include() /home/ubuntu/workspace/S16-CSCI242/composer3/vendor/composer/ClassLoader.php:412
+[16-Feb-2016 15:39:27 UTC] PHP   6. spl_autoload_call(*uninitialized*) /home/ubuntu/workspace/S16-CSCI242/composer3/vendor/composer/ClassLoader.php:7
+[16-Feb-2016 15:39:27 UTC] PHP   7. Composer\Autoload\ClassLoader->loadClass($class = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/composer3/vendor/composer/ClassLoader.php:7
+[16-Feb-2016 15:39:27 UTC] PHP   8. Composer\Autoload\includeFile($file = *uninitialized*) /home/ubuntu/workspace/S16-CSCI242/composer3/vendor/composer/ClassLoader.php:301

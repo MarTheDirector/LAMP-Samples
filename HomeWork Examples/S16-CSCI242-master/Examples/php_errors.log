@@ -1,0 +1,24 @@
+[18-Feb-2016 03:42:52 UTC] PHP Parse error:  syntax error, unexpected '$protected' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/Circle.php on line 4
+[18-Feb-2016 03:42:52 UTC] PHP Stack trace:
+[18-Feb-2016 03:42:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
+[18-Feb-2016 03:43:15 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/Square.php on line 4
+[18-Feb-2016 03:43:15 UTC] PHP Stack trace:
+[18-Feb-2016 03:43:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
+[18-Feb-2016 03:43:25 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/Square.php on line 4
+[18-Feb-2016 03:43:25 UTC] PHP Stack trace:
+[18-Feb-2016 03:43:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
+[18-Feb-2016 03:43:47 UTC] PHP Fatal error:  Class Square contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Shape::getArea) in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/Square.php on line 0
+[18-Feb-2016 03:43:47 UTC] PHP Stack trace:
+[18-Feb-2016 03:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
+[18-Feb-2016 03:44:52 UTC] PHP Fatal error:  Declaration of Square::getArea() must be compatible with Shape::getArea() in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/Square.php on line 0
+[18-Feb-2016 03:44:52 UTC] PHP Stack trace:
+[18-Feb-2016 03:44:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
+[18-Feb-2016 03:45:21 UTC] PHP Fatal error:  Call to undefined function setWidth() in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php on line 9
+[18-Feb-2016 03:45:21 UTC] PHP Stack trace:
+[18-Feb-2016 03:45:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
+[18-Feb-2016 03:45:56 UTC] PHP Fatal error:  Call to undefined function setWidth() in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php on line 9
+[18-Feb-2016 03:45:56 UTC] PHP Stack trace:
+[18-Feb-2016 03:45:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
+[18-Feb-2016 03:47:46 UTC] PHP Fatal error:  Call to a member function getArea() on a non-object in /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php on line 28
+[18-Feb-2016 03:47:46 UTC] PHP Stack trace:
+[18-Feb-2016 03:47:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/S16-CSCI242/Examples/Shapes/index.php:0
